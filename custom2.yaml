@@ -1,0 +1,14 @@
+path: /content/data
+train: /content/data/images/train
+val: /content/data/images/val
+test:  # test images (optional)
+
+# Classes
+names:
+  0: limon
+  1: naranja
+
+
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
